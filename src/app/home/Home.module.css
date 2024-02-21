@@ -1,0 +1,320 @@
+
+
+.img{
+    width: 100%;
+    margin-bottom: -80px;
+    padding-bottom: 100px;
+}
+
+.bannerimg {
+    margin: 80px 115px;
+    width: 60%;
+}
+
+.banner {
+    position: relative;
+}
+
+.title{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+
+.title h1{
+    font-size: 55px;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    line-height: 70px;
+    padding: 0 10px 0 10px;
+    text-transform: uppercase;
+}
+
+/* .head{
+    background: #f5f6fc;
+    margin-bottom: 100px;
+    display: block;
+} */
+
+.fashiontrands {
+    padding: 100px 0;
+}
+
+.container {
+    /* width: 100%; */
+    padding-right: 15px; 
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fashionbox {
+    margin: 115px 0;
+}
+
+.titlestyle {
+    margin: 0 auto 80px;
+    height: 120px;
+    width: 80%;
+    min-width: 700px;
+    background: #fff;
+    text-align: center!important;
+    position: relative;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+
+}
+
+.titlestyleh1{
+    padding: 40px 0;
+    font-size: 2.5rem;
+}
+
+.textcenter{
+    text-align: center!important;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.row {
+    margin: initial !important;
+    display: flex;
+}
+
+.col{
+    position: relative;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.trendingimg{
+    position: relative;
+    margin-bottom: 15px
+}
+
+.timg{
+    width: 80%;
+    vertical-align: middle;
+    border-style: none;  
+    position: absolute;  
+    right: 35px;
+}
+
+.overlay {
+     height: 0; 
+     width: 100%;
+     background: #333;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    transition: 0.5s; 
+}
+
+.btnbuy {
+    cursor: pointer;
+    width: 150px;
+    padding: 10px 0;
+    outline: none !important;
+    border: 0;
+    border-radius: 2px;
+    position: absolute;
+    background: #fff;
+    left: 50%;
+    /* bottom: 0; */
+    top: 560px;
+    transform: translate(-50%, 0);
+    transition: 0.6s;
+    /* opacity: 0; */
+    /* -webkit-appearance: button; */
+}
+
+.offer{
+    background-image: url(https://i.ibb.co/Z1Wpsgp/offer-bg.jpg);
+    background-size: cover;
+    background-position: center;
+
+    /* display: block; */
+}
+
+.rows{
+    margin: initial !important;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.textCenter{
+    text-align: center!important;
+}
+
+.Img{
+    width: 300px;
+    height: 500px;
+    margin-bottom: -100px;
+    margin-top: 100px;
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    left: 30%;
+}
+
+.sub{
+    max-width: 500px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    padding: 60px;
+    background: #ffffff8c;
+    left: 50%;
+    position: relative;
+
+}
+
+.sub h4{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+    font-size: 1.5rem;
+}
+
+.sub p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.subscribe{
+    width: 100px;
+    display: block;
+    color: #ffffff !important;
+    background: #000000;
+    text-decoration: none !important;
+    padding: 5px;
+    text-align: center;
+}
+
+.fashionblog {
+    margin: 250px 0 150px 0;
+    padding-top: 25%;
+}
+
+.Fhead{
+    margin: 0 auto 80px;
+    height: 120px;
+    width: 80%;
+    min-width: 700px;
+    background: #fff;
+    position: relative;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    /* box-shadow: 0 4px 5px 0 rgba(0, 0, 50, 0.5); */
+    text-align: center!important;
+}
+
+.Fhead h1{
+    padding: 40px 0;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+
+.Fcontainer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Frow{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Fimg{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.Fheading{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.Fcolume{
+    text-align: center;
+    margin-left: 40px;
+}
+
+.Fimg{
+    width: 60%;
+}
+
+.fashionbrand{
+    margin-bottom: 150px;
+}
+
+.fashionstyle{
+    margin: 0 auto 80px;
+    height: 120px;
+    width: 80%;
+    min-width: 700px;
+    background: #fff;
+    position: relative;
+    /* box-shadow: 0 4px 5px 0 rgba(0, 0, 50, 0.5); */
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    text-align: center!important;
+}
+
+.fashionhead{
+    padding: 40px 0;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.fashioncontainer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fashionrow{
+    text-align: center!important;
+    display: flex;
+    margin: 100px
+    /* flex-wrap: wrap; */
+    
+}
+
+.fashioncolume{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.fashionbrands{
+    width: 200px;
+    height: 200px;
+    background: #ffffff;
+    border-radius: 50%;
+    margin: 50px auto 30px;
+    box-shadow: 0 2px 40px 0 rgba(110, 130, 208, 0.18);
+}
+
+.fashionbrandimg{
+    width: 100px;
+    margin: 50px auto;
+    vertical-align: middle;
+    border-style: none;
+}

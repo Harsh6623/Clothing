@@ -1,0 +1,121 @@
+
+.footer{
+    margin-top: 150px;
+    background: #f5f6fc;
+}
+
+.footercontainer{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footerrow{
+    margin: initial !important;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footercol{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.payment{
+    margin: 50px auto;
+}
+
+.footerhead{
+    margin-bottom: 40px;
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.footercol{
+    display: contents;
+}
+
+.paymentimg{
+    width: 200px;
+    cursor: pointer;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.instaimg{
+    margin: 50px auto;
+}
+
+.instapost{
+    width: 75px;
+    padding: 5px;
+    cursor: pointer;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.appdownload{
+    margin: 50px auto;
+}
+
+.appimg{
+    width: 200px;
+    padding: 5px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.line{
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.footercolume{
+    position: relative;
+    width: 100%;
+    padding-right: 205px;   
+    padding-left: 115px;
+}
+
+.copyright{
+    margin-top: 0;
+    margin-bottom: 1rem;   
+}
+
+.footericon{
+    text-align: right;
+    position: relative;
+    bottom: 30px;    
+}
+
+.Facebook{
+    margin: 10px;
+}
+
+.Twitter{
+    margin: 10px;
+}
+
+.Instagram{
+    margin: 10px;
+}
+
+.YouTube{
+    margin: 10px;
+}
+
+.LinkedIn{
+    margin: 10px;
+}
