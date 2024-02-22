@@ -115,12 +115,12 @@ function Kids(){
 
                 <div className={classes.colum}>
                     <img className={classes.pimg} src="https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687516697_8329592.jpg?format=webp&w=480&dpr=1.3" alt="" />
-                    <h4 className={classes.phead}>   Snoopy Floral Pattern</h4>
+                    <h4 className={classes.phead}>Snoopy Floral Pattern</h4>
                     <p className={classes.price}>₹500.00</p>
                 </div>
                 
             </div> 
-
+        
         </div>
     )   
 }

@@ -13,8 +13,8 @@ function Header(){
                 <Link className={classes.link} href="men"><li>Men</li></Link>
                 <Link className={classes.link} href="women"><li>Women</li></Link>
                 <Link className={classes.link} href="kids"><li>kids</li></Link>
-                <Link className={classes.link} href="men"><li>About Us</li></Link>
-                <Link className={classes.link} href="men"><li>Contact Us</li></Link>
+                <Link className={classes.link} href="about"><li>About Us</li></Link>
+                <Link className={classes.link} href="contact"><li>Contact Us</li></Link>
                 
             </ul>
             <div className={classes.icon}>
