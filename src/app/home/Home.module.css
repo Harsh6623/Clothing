@@ -101,7 +101,6 @@
 
 .overlay {
      height: 0; 
-     width: 100%;
      background: #333;
     position: absolute;
     top: 0;
@@ -218,7 +217,6 @@
 }
 
 .Fcontainer{
-    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -281,7 +279,6 @@
 }
 
 .fashioncontainer{
-    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;

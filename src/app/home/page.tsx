@@ -8,7 +8,7 @@ function HomePage(){
     return(
         <>
             <main className={classes.main}>
-                <section className={classes.head}>
+                 <section className={classes.head}>
                 
                 <div className={classes.banner}>
                     <div className={classes.bannerimg}>
@@ -19,12 +19,12 @@ function HomePage(){
                         <h1>Women's Lifestyle</h1>
                     </div>
                 </div>
-                </section>
+                </section> 
 
 
           
 
-               <section className={classes.offer}>
+                <section className={classes.offer}>
                 <div className={classes.rows}>
                     <div className={classes.textCenter}>
                         <img className={classes.Img} src="https://i.ibb.co/gjjSk0z/exclusive.jpg" alt="" />
@@ -37,10 +37,10 @@ function HomePage(){
                         </div>
                     </div>
                 </div>
-               </section>
+               </section> 
 
 
-               <section className={classes.fashiontrands}>
+                <section className={classes.fashiontrands}>
                     <div className={classes.container}>
                         <div className={classes.fashionbox}>
                             <div className={classes.titlestyle}>
@@ -80,7 +80,7 @@ function HomePage(){
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> 
 
 
                 <section className={classes.fashionblog}>
